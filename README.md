@@ -1,6 +1,6 @@
 # S8---ZUBER
-Impacto del clima en la preferencia de los pasajeros para una empresa de viajes. 
-Extracción de infomación de páginas HTML y manejo de datos JSON.
+Impacto del clima en la preferencia de los pasajeros para una empresa de viajes en taxi. 
+Extracción de infomación de sitios web HTML y uso de comandos SQL.
 
 ## Descripción
 Zuber, una nueva empresa de viajes compartidos que se está lanzando en Chicago, le interesa comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes, como el clima y los competidores.
